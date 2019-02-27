@@ -1,0 +1,11 @@
+C:\Users\frecklejaws\source\repos\PrecarpathianUniversity.CI41.PV.PRACTICE\PrecarpathianUniversity.CI41.PV.PRACTICE\bin\Debug\netcoreapp2.1\PrecarpathianUniversity.CI41.PV.PRACTICE.deps.json
+C:\Users\frecklejaws\source\repos\PrecarpathianUniversity.CI41.PV.PRACTICE\PrecarpathianUniversity.CI41.PV.PRACTICE\bin\Debug\netcoreapp2.1\PrecarpathianUniversity.CI41.PV.PRACTICE.runtimeconfig.json
+C:\Users\frecklejaws\source\repos\PrecarpathianUniversity.CI41.PV.PRACTICE\PrecarpathianUniversity.CI41.PV.PRACTICE\bin\Debug\netcoreapp2.1\PrecarpathianUniversity.CI41.PV.PRACTICE.runtimeconfig.dev.json
+C:\Users\frecklejaws\source\repos\PrecarpathianUniversity.CI41.PV.PRACTICE\PrecarpathianUniversity.CI41.PV.PRACTICE\bin\Debug\netcoreapp2.1\PrecarpathianUniversity.CI41.PV.PRACTICE.dll
+C:\Users\frecklejaws\source\repos\PrecarpathianUniversity.CI41.PV.PRACTICE\PrecarpathianUniversity.CI41.PV.PRACTICE\bin\Debug\netcoreapp2.1\PrecarpathianUniversity.CI41.PV.PRACTICE.pdb
+C:\Users\frecklejaws\source\repos\PrecarpathianUniversity.CI41.PV.PRACTICE\PrecarpathianUniversity.CI41.PV.PRACTICE\obj\Debug\netcoreapp2.1\PrecarpathianUniversity.CI41.PV.PRACTICE.csprojAssemblyReference.cache
+C:\Users\frecklejaws\source\repos\PrecarpathianUniversity.CI41.PV.PRACTICE\PrecarpathianUniversity.CI41.PV.PRACTICE\obj\Debug\netcoreapp2.1\PrecarpathianUniversity.CI41.PV.PRACTICE.csproj.CoreCompileInputs.cache
+C:\Users\frecklejaws\source\repos\PrecarpathianUniversity.CI41.PV.PRACTICE\PrecarpathianUniversity.CI41.PV.PRACTICE\obj\Debug\netcoreapp2.1\PrecarpathianUniversity.CI41.PV.PRACTICE.AssemblyInfoInputs.cache
+C:\Users\frecklejaws\source\repos\PrecarpathianUniversity.CI41.PV.PRACTICE\PrecarpathianUniversity.CI41.PV.PRACTICE\obj\Debug\netcoreapp2.1\PrecarpathianUniversity.CI41.PV.PRACTICE.AssemblyInfo.cs
+C:\Users\frecklejaws\source\repos\PrecarpathianUniversity.CI41.PV.PRACTICE\PrecarpathianUniversity.CI41.PV.PRACTICE\obj\Debug\netcoreapp2.1\PrecarpathianUniversity.CI41.PV.PRACTICE.dll
+C:\Users\frecklejaws\source\repos\PrecarpathianUniversity.CI41.PV.PRACTICE\PrecarpathianUniversity.CI41.PV.PRACTICE\obj\Debug\netcoreapp2.1\PrecarpathianUniversity.CI41.PV.PRACTICE.pdb
